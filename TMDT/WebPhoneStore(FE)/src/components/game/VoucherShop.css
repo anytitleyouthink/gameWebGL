@@ -1,0 +1,56 @@
+.voucher-shop-wrapper {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif !important;
+}
+
+.voucher-shop-wrapper * {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}
+
+.wheel-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    margin: 20px auto;
+}
+
+.wheel-canvas {
+    border-radius: 50%;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+    border: 8px solid #ffffff;
+    max-width: 100%;
+    height: auto;
+}
+
+.wheel-pointer {
+    width: 0;
+    height: 0;
+    border-left: 16px solid transparent;
+    border-right: 16px solid transparent;
+    border-top: 32px solid #dc3545;
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 10;
+    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.4));
+}
+
+/* Voucher Card Styling matching HDPE Store */
+.voucher-card-item {
+    border: 1px dashed #ced4da !important;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    background: #ffffff;
+}
+
+.voucher-card-item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08) !important;
+    border-color: #198754 !important;
+}
+
+.voucher-code-badge {
+    font-family: 'Plus Jakarta Sans', monospace, sans-serif !important;
+    letter-spacing: 0.5px;
+    font-weight: 700;
+}

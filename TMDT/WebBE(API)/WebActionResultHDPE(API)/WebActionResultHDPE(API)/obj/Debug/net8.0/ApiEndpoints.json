@@ -1,0 +1,1051 @@
+[
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.DonHangsController",
+    "Method": "Index",
+    "RelativePath": "api/v1/DonHangs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[System.Collections.Generic.List\u00601[[WebActionResultHDPE.DTOs.HoaDonDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.DonHangsController",
+    "Method": "Create",
+    "RelativePath": "api/v1/DonHangs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WebActionResultHDPE.DTOs.CreateHoaDonDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.HoaDonDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.DonHangsController",
+    "Method": "Details",
+    "RelativePath": "api/v1/DonHangs/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.HoaDonDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.DonHangsController",
+    "Method": "Edit",
+    "RelativePath": "api/v1/DonHangs/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "WebActionResultHDPE.DTOs.UpdateHoaDonDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.HoaDonDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.DonHangsController",
+    "Method": "DeleteConfirmed",
+    "RelativePath": "api/v1/DonHangs/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.DonHangsController",
+    "Method": "LichSu",
+    "RelativePath": "api/v1/DonHangs/LichSu",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[System.Collections.Generic.List\u00601[[WebActionResultHDPE.DTOs.HoaDonDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.GioHangsController",
+    "Method": "Index",
+    "RelativePath": "api/v1/GioHangs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sessionId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.CartSummaryDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.GioHangsController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/GioHangs/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "sessionId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.GioHangsController",
+    "Method": "Add",
+    "RelativePath": "api/v1/GioHangs/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "WebActionResultHDPE.DTOs.AddToCartRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.CartSummaryDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.GioHangsController",
+    "Method": "ApplyVoucher",
+    "RelativePath": "api/v1/GioHangs/ApplyVoucher",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "WebActionResultHDPE.DTOs.ApplyVoucherRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.ApplyVoucherResponse, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.GioHangsController",
+    "Method": "GetAvailableVouchers",
+    "RelativePath": "api/v1/GioHangs/AvailableVouchers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[System.Collections.Generic.List\u00601[[WebActionResultHDPE.DTOs.VoucherDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.GioHangsController",
+    "Method": "ProcessCheckout",
+    "RelativePath": "api/v1/GioHangs/Checkout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "WebActionResultHDPE.DTOs.CheckoutRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.CheckoutResponse, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.GioHangsController",
+    "Method": "PaymentQR",
+    "RelativePath": "api/v1/GioHangs/PaymentQR/{orderId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.PaymentQRResponse, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.GioHangsController",
+    "Method": "UpdateQuantity",
+    "RelativePath": "api/v1/GioHangs/UpdateQuantity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "WebActionResultHDPE.DTOs.UpdateQuantityRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.UpdateCartResponse, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.HangHoasController",
+    "Method": "Index",
+    "RelativePath": "api/v1/HangHoas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loai",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "page",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "keyword",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.PagedResult\u00601[[WebActionResultHDPE.DTOs.HangHoaDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.HangHoasController",
+    "Method": "Create",
+    "RelativePath": "api/v1/HangHoas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WebActionResultHDPE.DTOs.HangHoaUpsertDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.HangHoaDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.HangHoasController",
+    "Method": "Details",
+    "RelativePath": "api/v1/HangHoas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.HangHoaDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.HangHoasController",
+    "Method": "Edit",
+    "RelativePath": "api/v1/HangHoas/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "WebActionResultHDPE.DTOs.HangHoaUpsertDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.HangHoaDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.HangHoasController",
+    "Method": "DeleteConfirmed",
+    "RelativePath": "api/v1/HangHoas/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.HangHoasController",
+    "Method": "GetLoai",
+    "RelativePath": "api/v1/HangHoas/Loai",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[System.Collections.Generic.List\u00601[[WebActionResultHDPE.ViewModels.MenuLoaiVM, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.HangHoasController",
+    "Method": "Search",
+    "RelativePath": "api/v1/HangHoas/Search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "keyword",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[System.Collections.Generic.List\u00601[[WebActionResultHDPE.DTOs.HangHoaSearchDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.HangHoasController",
+    "Method": "UploadImage",
+    "RelativePath": "api/v1/HangHoas/upload-image",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.HomeController",
+    "Method": "Index",
+    "RelativePath": "api/v1/Home",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[System.Collections.Generic.List\u00601[[WebActionResultHDPE.DTOs.HangHoaDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.HomeController",
+    "Method": "Privacy",
+    "RelativePath": "api/v1/Home/Privacy",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.KhachHangController",
+    "Method": "DangKy",
+    "RelativePath": "api/v1/KhachHang/DangKy",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WebActionResultHDPE.ViewModels.RegisterVM",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.KhachHangProfileDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.KhachHangController",
+    "Method": "DangNhap",
+    "RelativePath": "api/v1/KhachHang/DangNhap",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WebActionResultHDPE.ViewModels.LoginVM",
+        "IsRequired": true
+      },
+      {
+        "Name": "sessionId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.AuthResponseDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.KhachHangController",
+    "Method": "DangXuat",
+    "RelativePath": "api/v1/KhachHang/DangXuat",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WebActionResultHDPE.DTOs.LogoutRequestDto",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.KhachHangController",
+    "Method": "EditProfile",
+    "RelativePath": "api/v1/KhachHang/EditProfile",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WebActionResultHDPE.DTOs.EditProfileDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.KhachHangProfileDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.KhachHangController",
+    "Method": "Profile",
+    "RelativePath": "api/v1/KhachHang/Profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.KhachHangProfileDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.KhachHangController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/v1/KhachHang/RefreshToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WebActionResultHDPE.DTOs.RefreshTokenRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ApiResponse\u00601[[WebActionResultHDPE.DTOs.AuthResponseDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.PuzzleController",
+    "Method": "ClaimTicket",
+    "RelativePath": "api/v1/Puzzle/claim-ticket",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "WebActionResultHDPE.DTOs.ClaimTicketRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ClaimTicketResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.PuzzleController",
+    "Method": "CompletePuzzle",
+    "RelativePath": "api/v1/Puzzle/complete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "WebActionResultHDPE.DTOs.CompletePuzzleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.CompletePuzzleResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.PuzzleController",
+    "Method": "LockDailyProgress",
+    "RelativePath": "api/v1/Puzzle/lock",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.LockResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.PuzzleController",
+    "Method": "CompleteProductView",
+    "RelativePath": "api/v1/Puzzle/product-view/complete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "WebActionResultHDPE.DTOs.ProductViewCompleteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ProductViewCompleteResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.PuzzleController",
+    "Method": "StartProductView",
+    "RelativePath": "api/v1/Puzzle/product-view/start",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "WebActionResultHDPE.DTOs.ProductViewStartRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.ProductViewStartResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.PuzzleController",
+    "Method": "StartPuzzle",
+    "RelativePath": "api/v1/Puzzle/start",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.StartPuzzleResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.PuzzleController",
+    "Method": "GetStatus",
+    "RelativePath": "api/v1/Puzzle/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.PuzzleStatusDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.VouchersController",
+    "Method": "GetShopVouchers",
+    "RelativePath": "api/v1/Vouchers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WebActionResultHDPE.DTOs.ShopVoucherDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.VouchersController",
+    "Method": "PurchaseVoucher",
+    "RelativePath": "api/v1/Vouchers/{voucherId}/purchase",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "voucherId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.PurchaseVoucherResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.VouchersController",
+    "Method": "GetMyVouchers",
+    "RelativePath": "api/v1/Vouchers/my",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WebActionResultHDPE.DTOs.UserVoucherDto, WebActionResultHDPE(API), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.VouchersController",
+    "Method": "SpinWheel",
+    "RelativePath": "api/v1/Vouchers/spin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.SpinWheelResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebActionResultHDPE.Controllers.VouchersController",
+    "Method": "UseVoucher",
+    "RelativePath": "api/v1/Vouchers/use",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "WebActionResultHDPE.DTOs.UseGameVoucherRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebActionResultHDPE.DTOs.UseGameVoucherResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

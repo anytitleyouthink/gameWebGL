@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\controllers\\giohangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\controllers\\giohangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\dtos\\giohangdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\dtos\\giohangdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\dtos\\hanghoadtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\dtos\\hanghoadtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\dtos\\hoadondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\dtos\\hoadondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\dtos\\khachhangdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\dtos\\khachhangdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\models\\gopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\models\\gopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|e:\\tmdt\\tmdt\\webbe(api)\\webactionresulthdpe(api)\\webactionresulthdpe(api)\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F413F316-08A2-4AD4-9F1F-44BAD40F6FF1}|WebActionResultHDPE(API)\\WebActionResultHDPE(API).csproj|solutionrelative:webactionresulthdpe(api)\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\Models\\User.cs",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Models\\User.cs",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T16:01:58.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hshop2023Context.cs",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Data\\Hshop2023Context.cs",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\Data\\Hshop2023Context.cs",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Data\\Hshop2023Context.cs",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\Data\\Hshop2023Context.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowFMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:45:50.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\appsettings.json",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\appsettings.json",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\appsettings.json",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-21T14:45:40.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HangHoaDtos.cs",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\DTOs\\HangHoaDtos.cs",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\DTOs\\HangHoaDtos.cs",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\DTOs\\HangHoaDtos.cs",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\DTOs\\HangHoaDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:42:39.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HoaDonDtos.cs",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\DTOs\\HoaDonDtos.cs",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\DTOs\\HoaDonDtos.cs",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\DTOs\\HoaDonDtos.cs",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\DTOs\\HoaDonDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:42:38.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KhachHangDtos.cs",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\DTOs\\KhachHangDtos.cs",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\DTOs\\KhachHangDtos.cs",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\DTOs\\KhachHangDtos.cs",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\DTOs\\KhachHangDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:42:37.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cs",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\DTOs\\Register.cs",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\DTOs\\Register.cs",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\DTOs\\Register.cs",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\DTOs\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:42:36.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\Models\\KhachHang.cs",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Models\\KhachHang.cs",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\Models\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:42:35.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\Controllers\\KhachHangController.cs",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\Controllers\\KhachHangController.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:42:26.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:42:25.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HangHoasController.cs",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Controllers\\HangHoasController.cs",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\Controllers\\HangHoasController.cs",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Controllers\\HangHoasController.cs",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\Controllers\\HangHoasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:42:25.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GioHangsController.cs",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Controllers\\GioHangsController.cs",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\Controllers\\GioHangsController.cs",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Controllers\\GioHangsController.cs",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\Controllers\\GioHangsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:42:24.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DonHangsController.cs",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Controllers\\DonHangsController.cs",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\Controllers\\DonHangsController.cs",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Controllers\\DonHangsController.cs",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\Controllers\\DonHangsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:42:24.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GioHangDtos.cs",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\DTOs\\GioHangDtos.cs",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\DTOs\\GioHangDtos.cs",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\DTOs\\GioHangDtos.cs",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\DTOs\\GioHangDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:42:21.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GopY.cs",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Models\\GopY.cs",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\Models\\GopY.cs",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Models\\GopY.cs",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\Models\\GopY.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:42:19.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Models\\HangHoa.cs",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\Models\\HangHoa.cs",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Models\\HangHoa.cs",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\Models\\HangHoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:42:18.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\DTOs\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\DTOs\\ApiResponse.cs",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\DTOs\\ApiResponse.cs",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\DTOs\\ApiResponse.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:42:10.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Program.cs",
+              "RelativeDocumentMoniker": "WebActionResultHDPE(API)\\Program.cs",
+              "ToolTip": "E:\\TMDT\\TMDT\\WebBE(API)\\WebActionResultHDPE(API)\\WebActionResultHDPE(API)\\Program.cs",
+              "RelativeToolTip": "WebActionResultHDPE(API)\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwCUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:42:04.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
